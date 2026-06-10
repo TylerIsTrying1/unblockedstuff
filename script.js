@@ -23,6 +23,14 @@ const games = [
     description: "Roll past obstacles as it increasingly gets faster and harder!",
     difficulty: "Medium/Hard",
     length: "Infinite"
+  },
+   {
+    title: "Dino Bridge game",
+    url: "https://dinogamemods.org/dino-bridge/", // replace with real URL
+    tag: "Arcade",
+    description: "Create a brdige to cross multiple towers, but dont make it too long or short!",
+    difficulty: "Hard",
+    length: "Infinite"
   }
 ];
 
