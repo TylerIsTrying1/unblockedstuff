@@ -1,8 +1,8 @@
 // Define your games here
 const games = [
   {
-    title: "Retro Runner",
-    url: "https://example.com/retro-runner", // replace with real URL
+    title: "Google Dino Game",
+    url: "https://pwa-dino.github.io/", // replace with real URL
     tag: "Runner",
     description: "Fast-paced endless runner with retro pixel vibes.",
     difficulty: "Easy",
@@ -10,19 +10,19 @@ const games = [
   },
   {
     title: "2048 Classic",
-    url: "https://example.com/2048", // replace with real URL
+    url: "https://ovolve.github.io/2048-AI/", // replace with real URL
     tag: "Puzzle",
     description: "The classic sliding number puzzle—simple to learn, hard to master.",
     difficulty: "Medium",
     length: "Chill"
   },
   {
-    title: "Space Shooter X",
-    url: "https://example.com/space-shooter", // replace with real URL
+    title: "Slope",
+    url: "https://gitallgames.github.io/projects/slope/index.html", // replace with real URL
     tag: "Arcade",
-    description: "Blast through waves of enemies in this arcade-style space shooter.",
-    difficulty: "Hard",
-    length: "Arcade"
+    description: "Roll past obstacles as it increasingly gets faster and harder!",
+    difficulty: "Medium/Hard",
+    length: "Infinite"
   }
 ];
 
